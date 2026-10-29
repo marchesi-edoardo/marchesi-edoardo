@@ -1,4 +1,4 @@
-# Ciao, sono Edoardo · Hi, I'm Edoardo
+# 👋 Ciao, sono Edoardo · Hi, I'm Edoardo
 
 **Studente di Intelligenza Artificiale a Milano, interessato alle applicazioni di AI che le persone possono capire e tenere sotto controllo.**<br>
 **AI student in Milan, interested in AI applications that people can understand and stay in control of.**
