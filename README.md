@@ -18,6 +18,7 @@ Mi interessa progettare e **valutare** applicazioni di AI che siano comprensibil
 
 ## Progetti
 
+- **[Young Wine Appeal Analyzer](https://github.com/marchesi-edoardo/young-wine-appeal-analyzer)** · progetto del Laboratorio di Cognition, Neuroscience & Machine Learning (IULM, 2026), sviluppato con Camilla Pallavera come team Brix & Brain. Pipeline Python (FastAPI, React + TypeScript) che con modelli linguistici legge sito web ed etichetta di una cantina, valuta quanto comunica a un pubblico giovane e unisce i due punteggi in un indice. Include un test di ripetibilità del punteggio (misura la ripetibilità, non la validità), 412 test offline e una modalità demo che non richiede chiavi API.
 - **[EcoScan](https://github.com/marchesi-edoardo/esg-datamining)** · progetto di gruppo per il corso di Data Mining e Text Analytics (IULM, 2026). App Python/Streamlit che estrae indicatori ESG dai report di sostenibilità con TF-IDF e Gemini. Sviluppato dal gruppo Three Pillars Analytics con Christian Centi e Niccolò Asti; questo è un fork del [repository originale](https://github.com/christiancenti/esg-datamining).
 
 ## Competenze
