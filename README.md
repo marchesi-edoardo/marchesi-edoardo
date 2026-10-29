@@ -6,9 +6,6 @@
 Studio Intelligenza Artificiale, Impresa e Società allo IULM. Progetto e valuto applicazioni di AI: parto da un problema concreto, costruisco un prototipo che funziona e verifico se regge alla prova.<br>
 *I'm studying Artificial Intelligence for Business and Society at IULM. I design and evaluate AI applications: I start from a real problem, build a prototype that works, and check that it holds up.*
 
-Collaboro con Percepta, il centro di ricerca dello IULM sulla coscienza e la percezione, e nel 2026 ho tenuto corsi sull'AI a docenti delle scuole secondarie con Yellow Tech / ScuolaTech.<br>
-*I'm a collaborator at Percepta, IULM's research center on consciousness and perception, and in 2026 I trained secondary-school teachers on AI with Yellow Tech / ScuolaTech.*
-
 > L'AI dovrebbe ampliare ciò che le persone sanno fare, non sostituirsi al loro giudizio.<br>
 > *AI should extend what people can do, not replace their judgment.*
 
