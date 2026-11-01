@@ -1,22 +1,28 @@
 # 👋 Ciao, sono Edoardo
 
-Studio Intelligenza Artificiale, Impresa e Società all'Università IULM di Milano. Mi interessa capire come l'IA possa aiutare le persone nel loro lavoro, senza sostituirsi al loro giudizio.
+Sono laureato in Economia e Gestione Aziendale e sto completando la magistrale in Intelligenza Artificiale, Impresa e Società all'Università IULM di Milano.
+
+Mi occupo di applicazioni di IA, tra progettazione, sviluppo e ricerca applicata. Mi interessa tanto costruire sistemi quanto valutarne l'affidabilità e capire come possano supportare le decisioni delle persone senza sostituirsi al loro giudizio.
 
 ## Progetti
 
-### [EcoScan](https://github.com/marchesi-edoardo/esg-datamining)
-
-EcoScan estrae sei indicatori ESG dai report di sostenibilità delle aziende (PDF) e li presenta in una dashboard.
-
-Progetto di gruppo per il corso di Data Mining e Text Analytics (IULM, 2026), realizzato con Christian Centi e Niccolò Asti (Three Pillars Analytics). Stack: Python e Streamlit; Gemini e TF-IDF (scikit-learn) per l'estrazione.
-
-Questo repository è un fork di quello [originale](https://github.com/christiancenti/esg-datamining).
-
 ### [Young Wine Appeal Analyzer](https://github.com/marchesi-edoardo/young-wine-appeal-analyzer)
 
-Young Wine Appeal Analyzer analizza il sito web e l'etichetta di una cantina per valutare quanto comunicano a un pubblico giovane. Un modello linguistico valuta i due elementi e assegna due punteggi, che vengono combinati in un unico indice. L'applicazione suggerisce anche quali aspetti migliorare per primi.
+Young Wine Appeal Analyzer analizza il sito web e l'etichetta di una cantina per valutare come comunicano a un pubblico giovane. Combina i risultati in un indice, lo YWNEI, e propone raccomandazioni sugli aspetti da migliorare.
 
-Progetto realizzato con Camilla Pallavera (Brix & Brain) per il Laboratorio di Cognition, Neuroscience & Machine Learning dell'Università IULM (2026). Ho progettato l'analisi del sito e guidato lo sviluppo dell'applicazione. Stack: Python e FastAPI per il backend, React e TypeScript per l'interfaccia, Claude per l'analisi e OpenAI per generare le alternative di etichetta.
+Progetto realizzato con Camilla Pallavera (Brix & Brain) per il Laboratorio di Cognition, Neuroscience & Machine Learning dell'Università IULM (2026).
+
+Tecnologie: Python, FastAPI, React, TypeScript e Claude; modelli di generazione di immagini per le alternative di etichetta opzionali.
+
+### [EcoScan](https://github.com/marchesi-edoardo/esg-datamining)
+
+EcoScan analizza report di sostenibilità aziendali in PDF per estrarre fino a sei indicatori ESG e presentarli in una dashboard. Utilizza Gemini per l'estrazione strutturata delle informazioni e TF-IDF per individuare i temi rilevanti.
+
+Progetto di gruppo per il corso di Data Mining e Text Analytics (IULM, 2026), realizzato con Christian Centi e Niccolò Asti (Three Pillars Analytics).
+
+Tecnologie: Python, Streamlit, Gemini e scikit-learn.
+
+Questo repository è un fork di quello [originale](https://github.com/christiancenti/esg-datamining).
 
 [LinkedIn](https://www.linkedin.com/in/edoardo-marchesi-4847ba358)
 
@@ -24,22 +30,28 @@ Progetto realizzato con Camilla Pallavera (Brix & Brain) per il Laboratorio di C
 
 # 👋 Hi, I'm Edoardo
 
-I'm studying Artificial Intelligence for Business and Society at IULM University in Milan. I'm interested in how AI can support people in their work without replacing their judgment.
+I have a bachelor's degree in Business Administration and Management and am completing a master's degree in Artificial Intelligence for Business and Society at IULM University in Milan.
+
+I work on AI applications across design, development and applied research. I'm as interested in building systems as I am in evaluating their reliability and understanding how they can support people's decisions without replacing their judgment.
 
 ## Projects
 
-### [EcoScan](https://github.com/marchesi-edoardo/esg-datamining)
-
-EcoScan extracts six ESG indicators from corporate sustainability reports (PDFs) and presents the results in a dashboard.
-
-This was a group project for IULM's Data Mining and Text Analytics course (2026), carried out with Christian Centi and Niccolò Asti as the Three Pillars Analytics team. Stack: Python and Streamlit; Gemini and TF-IDF (scikit-learn) for the extraction.
-
-This repository is a fork of the [original](https://github.com/christiancenti/esg-datamining).
-
 ### [Young Wine Appeal Analyzer](https://github.com/marchesi-edoardo/young-wine-appeal-analyzer)
 
-Young Wine Appeal Analyzer analyzes a winery's website and wine label and scores how well they communicate with a younger audience. A language model scores each element, and the application combines the two scores into a single index. It also suggests which aspects of the website and label to improve first.
+Young Wine Appeal Analyzer analyzes a winery's website and wine label to assess how they communicate with a younger audience. It combines the results into an index, the YWNEI, and recommends areas for improvement.
 
-I worked on the project with Camilla Pallavera (Brix & Brain) as part of IULM's Cognition, Neuroscience & Machine Learning lab (2026). I designed the website analysis and led the development of the application. Stack: Python and FastAPI on the backend, React and TypeScript on the front end, Claude for the analysis and OpenAI to generate label alternatives.
+A project developed with Camilla Pallavera (Brix & Brain) as part of IULM's Cognition, Neuroscience & Machine Learning lab (2026).
+
+Technologies: Python, FastAPI, React, TypeScript and Claude; optional image-generation models for alternative label designs.
+
+### [EcoScan](https://github.com/marchesi-edoardo/esg-datamining)
+
+EcoScan analyzes corporate sustainability reports in PDF format to extract up to six ESG indicators and present them in a dashboard. It uses Gemini for structured information extraction and TF-IDF to identify relevant topics.
+
+This was a group project for IULM's Data Mining and Text Analytics course (2026), developed with Christian Centi and Niccolò Asti (Three Pillars Analytics).
+
+Technologies: Python, Streamlit, Gemini and scikit-learn.
+
+This repository is a fork of the [original](https://github.com/christiancenti/esg-datamining).
 
 [LinkedIn](https://www.linkedin.com/in/edoardo-marchesi-4847ba358)
