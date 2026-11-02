@@ -2,7 +2,7 @@
 
 Sono laureato in Economia e Gestione Aziendale e sto completando la magistrale in Intelligenza Artificiale, Impresa e Società all'Università IULM di Milano.
 
-Nei miei progetti lavoro su applicazioni di IA, tra ricerca applicata, progettazione e sviluppo. Mi interessa costruire sistemi, valutarne l'affidabilità e capire come possano supportare le decisioni delle persone senza sostituirsi al loro giudizio.
+Nei miei progetti lavoro su applicazioni di IA, tra ricerca applicata, progettazione e sviluppo. Mi interessa costruire sistemi, valutarne l'affidabilità e capire come i loro risultati possano aiutare le persone a prendere decisioni.
 
 ## Progetti
 
@@ -32,7 +32,7 @@ Questo repository è un fork di quello [originale](https://github.com/christianc
 
 I have a bachelor's degree in Business Administration and Management and am completing a master's degree in Artificial Intelligence for Business and Society at IULM University in Milan.
 
-My projects involve applied research and the design and development of AI applications. I'm interested in building systems, evaluating their reliability, and understanding how they can support people's decisions without replacing their judgment.
+My projects involve applied research and the design and development of AI applications. I'm interested in building systems, evaluating their reliability, and understanding how their outputs can inform people's decisions.
 
 ## Projects
 
